@@ -1,1 +1,1 @@
-# bot-3
+# Your site is live at https://freshteacher.software/bot-3/
